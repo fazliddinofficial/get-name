@@ -1,3 +1,4 @@
+"use strict"
 let arr = [{name: 'Dodge'},{name: 'Fodr Mustang'},{name: 'bmw'},{name: 'Porche'}];
 let secondArr = [];
 
